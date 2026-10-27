@@ -1,0 +1,7 @@
+{
+  "name": "feeroi",
+  "private": true,
+  "scripts": {
+    "test": "node tests/redirect.cjs"
+  }
+}
